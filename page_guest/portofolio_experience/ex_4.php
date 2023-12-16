@@ -3,7 +3,7 @@
     <div class="cover-depan" style="padding-top: 80px; padding-left: 6%; padding-right:6%;">
         <div class="container2">
             <div class="">
-                <div class="fotoex" data-aos="fade-right" data-aos-delay="100" style="background-image: url('assets/img/msg-1001835998270-207.jpg'); background-size:cover;">
+                <div class="fotoex" data-aos="fade-right" data-aos-delay="100" style="background-image: url('assets/img/msg-1001835998270-223.jpg'); background-size:cover;">
                 </div>
             </div>
             <div class="aboutme2">On 15 October 2023, I had a valuable experience after successfully passing the selection and participating in the HACK4ID training activities at Malang State Polytechnic. During this training, I played an active role in helping to solve problems and provide solutions to Grand Mercure Malang Mirama. This collaboration aims to improve the hotel's performance by involving several MSMEs in Malang Raya.

@@ -108,7 +108,7 @@
                 <div class="details"><span class="title">HACK4ID Training Participants</span><span class="info">One of the trainings set up to train problem solving</span></div>
             </a>
             <a class="tile kedua3" href="?page=portofolio&aksie=view_ex5"><img src="assets\img\msg-1001835998270-210.jpg"/>
-                <div class="details"><span class="title">MilCod Training Participants</span><span class="info">training to create a professional application</span></div>
+                <div class="details"><span class="title">MilCod Training Participants</span><span class="info">Training to create a professional application</span></div>
             </a>
         </div>
         <?php

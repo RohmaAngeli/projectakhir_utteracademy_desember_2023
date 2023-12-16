@@ -5,7 +5,16 @@
         </div>
         <div class="isiberita" style="padding-top:4%; padding-left: 6%; padding-right:6%;">
             <p>Welcome to Malang Mirama, a revolutionary platform that not only connects MSMEs through one convenient platform, but also instills sustainability values through the innovative use of Cassava Bag. Let's explore more about the excellent features and innovations that we present.</p>
+            <center><img src="assets\img\grandmercure\Screenshot 2023-11-28 164527.jpg" alt="gbrlaptop" style=" width:70%;"></center>
             <h2>Key Concepts</h2>
+            <center>
+                <table style="margin-top:2%; margin-bottom:2%;">
+                    <tr>
+                        <td><center><img src="assets\img\grandmercure\msg-1001835998270-159.jpg" alt="gbrlaptop" style=" width:95%;"></center></td>
+                        <td><center><img src="assets\img\grandmercure\msg-1001835998270-164.jpg" alt="gbrlaptop" style=" width:95%;"></center></td>
+                    </tr>
+                </table>
+            </center>
             <b>1. MSME connectivity:</b>
             <br>•	Malang Mirama allows MSMEs to unite on a single platform that makes it easier for them to promote their products. Each outlet is equipped with a dedicated admin login, providing additional security with a special username and code combination, as well as biometric features.
             <br>
@@ -18,6 +27,8 @@
             <b>4. Interactive MSME Platform:</b>
             <br>•	On the MSME page, users can browse the product catalog, add it to the shopping cart, and even order the product online. The checkout process will generate a QR code that allows customers to make payments efficiently at the outlet.
             <br>
+            <center><img src="assets\img\grandmercure\msg-1001835998270-160.jpg" alt="gbrlaptop" style=" width:70%;"></center>
+            <center><img src="assets\img\grandmercure\msg-1001835998270-161.jpg" alt="gbrlaptop" style=" width:70%;"></center>
             <h2>Website Main Features:</h2>
             <b>1. Hotel Reservation Platform: </b>
             <br>- A hotel reservation facility that makes it easy for users to plan their trips.
@@ -34,10 +45,9 @@
             <b>5. Cassava Information Bag:</b>
             <br>- An in-depth explanation of the seeded Cassava Bag, giving customers more understanding of the value of sustainability.
             <br>
+            <center><img src="assets\img\grandmercure\msg-1001835998270-162.jpg" alt="gbrlaptop" style=" width:70%;"></center>
             <h2>Conclusion</h2>
             <p>Through Malang Mirama, not only does it bring together MSMEs in one convenient digital platform, but it is also committed to engaging the community in the sustainability movement. Join the Grand Mercure Malang Mirama website in creating strong relationships and a more sustainable future for small businesses and our environment. Let's build sustainability together, one small action at a time. Thank you for being part of our journey at Malang Mirama!</p>
-
-            <center><img src="https://demo.acmethemes.com/portfolio-web/wp-content/uploads/2019/01/laptop-1209008-1024x576.jpg" alt="gbrlaptop" style="margin-top:4%; margin-bottom:4%;"></center>
         </div>
         <div style="padding-top:4%; padding-left: 6%; padding-right:6%;" data-aos="fade-up" data-aos-delay="100">
         <hr>

@@ -12,7 +12,7 @@ $active = "home";
                         <br> Great to see you.</div>
                         Welcome to my website! Here, you will find my story in my software engineering journey, and how my passion and dedication in creating innovative solutions through technology. I hope the experience of browsing this page will provide valuable insights and inspiration for you.
                     </div>
-                    <a href="#learnmore"><button class="custom-btn btn-6" style="margin-top: 5%;"><span>Learn more</span></button></a>
+                    <a href="index.php?page=portofolio"><button class="custom-btn btn-6" style="margin-top: 5%;"><span>Show My Portofolio</span></button></a>
                 </td>
                 <td align="center">
                     <div class="coverfoto" data-aos="fade-left" data-aos-delay="100" style="background-image: url('assets/img/beralmamater.jpg'); background-size:cover; border-radius:2%;">

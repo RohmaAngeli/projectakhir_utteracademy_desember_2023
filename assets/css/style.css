@@ -641,7 +641,7 @@ transform:scale(1.2);
 /* komentar blog  */
 
 input[type=text], textarea {
-  width:70%;
+  width:100%;
   /* border:2px solid #000000; */
   /* border-radius:4px; */
   margin:8px 0;
